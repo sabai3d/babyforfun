@@ -1,0 +1,27 @@
+{
+	"app1": [{
+		"admob_banner": "dd",
+		"admob_interstitial": "dd",
+		"unity_banner": "dd",
+		"unity_interstitial": "dd"
+	}],
+	"app2": [{
+		"admob_banner": "dd",
+		"admob_interstitial": "dd",
+		"unity_banner": "dd",
+		"unity_interstitial": "dd"
+	}],
+	"app3": [{
+		"admob_banner": "dd",
+		"admob_interstitial": "dd",
+		"unity_banner": "dd",
+		"unity_interstitial": "dd"
+	}],
+	"app4": [{
+		"admob_banner": "dd",
+		"admob_interstitial": "dd",
+		"unity_banner": "dd",
+		"unity_interstitial": "dd"
+	}]
+
+}
