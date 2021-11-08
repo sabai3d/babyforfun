@@ -9,7 +9,7 @@
       "unity_interstitial": "Interstitial_Android"
     }
   ],
-  "app2": [
+  "com.janaMekdad.Toyor": [
     {
       "admob_banner": "ca-app-pub-3940256099942544/6300978111",
       "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
