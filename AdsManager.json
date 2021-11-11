@@ -49,14 +49,12 @@
       "unity_interstitial": "Interstitial_Android"
     }
   ],
-  "app6": [
+  "com.Songs.ToyorElJaanah": [
     {
       "admob_banner": "ca-app-pub-3940256099942544/6300978111",
       "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "unity_game_id": "4440387",
-      "unity_test": false,
-      "unity_banner": "Banner_Android",
-      "unity_interstitial": "Interstitial_Android"
+      "applovin_banner": "ae238bd2efdbb8a9",
+      "applovin_interstitial": "6a052dd50d8d21e7"
     }
   ]
 }
