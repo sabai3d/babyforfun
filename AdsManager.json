@@ -33,10 +33,10 @@
     {
       "admob_banner": "ca-app-pub-3940256099942544/6300978111",
       "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "unity_game_id": "4440387",
+      "unity_game_id": "4133151",
       "unity_test": false,
-      "unity_banner": "Banner_Android",
-      "unity_interstitial": "Interstitial_Android"
+      "unity_banner": "android_banner",
+      "unity_interstitial": "video"
     }
   ],
   "com.toyorbaby.Elsissan": [
