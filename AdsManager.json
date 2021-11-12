@@ -13,10 +13,10 @@
     {
       "admob_banner": "ca-app-pub-2820243726232967/2375670378",
       "admob_interstitial": "ca-app-pub-2820243726232967/6123343691",
-      "unity_game_id": "4440387",
+      "unity_game_id": "",
       "unity_test": false,
-      "unity_banner": "Banner_Android",
-      "unity_interstitial": "Interstitial_Android"
+      "unity_banner": "",
+      "unity_interstitial": ""
     }
   ],
   "com.Hamidou.ToyorAlJanah": [
