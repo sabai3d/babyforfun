@@ -1,18 +1,18 @@
 {
   "com.songKids.ToyorJana": [
     {
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "admob_banner": "",
+      "admob_interstitial": "",
       "unity_game_id": "4440387",
       "unity_test": false,
-      "unity_banner": "Banner_Android",
-      "unity_interstitial": "Interstitial_Android"
+      "unity_banner": "",
+      "unity_interstitial": ""
     }
   ],
   "com.janaMekdad.Toyor": [
     {
-      "admob_banner": "ca-app-pub-2820243726232967/2375670378",
-      "admob_interstitial": "ca-app-pub-2820243726232967/6123343691",
+      "admob_banner": "",
+      "admob_interstitial": "",
       "unity_game_id": "",
       "unity_test": false,
       "unity_banner": "",
@@ -21,28 +21,28 @@
   ],
   "com.Hamidou.ToyorAlJanah": [
     {
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "unity_game_id": "4440387",
+      "admob_banner": "",
+      "admob_interstitial": "",
+      "unity_game_id": "",
       "unity_test": false,
-      "unity_banner": "Banner_Android",
-      "unity_interstitial": "Interstitial_Android"
+      "unity_banner": "",
+      "unity_interstitial": ""
     }
   ],
   "com.karameesh.Kids": [
     {
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "unity_game_id": "4133151",
+      "admob_banner": "",
+      "admob_interstitial": "",
+      "unity_game_id": "",
       "unity_test": false,
-      "unity_banner": "android_banner",
-      "unity_interstitial": "video"
+      "unity_banner": "",
+      "unity_interstitial": ""
     }
   ],
   "com.toyorbaby.Elsissan": [
     {
-      "admob_banner": "ca-app-pub-2820243726232967/6193935384",
-      "admob_interstitial": "ca-app-pub-2820243726232967/9549375398",
+      "admob_banner": "",
+      "admob_interstitial": "",
       "unity_game_id": "",
       "unity_test": false,
       "unity_banner": "",
@@ -51,9 +51,9 @@
   ],
   "com.Songs.ToyorElJaanah": [
     {
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-       "admob_rewarded": "ca-app-pub-3940256099942544/5224354917"
+      "admob_banner": "",
+      "admob_interstitial": "",
+       "admob_rewarded": ""
       
     }
   ]
