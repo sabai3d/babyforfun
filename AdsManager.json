@@ -22,9 +22,9 @@
   ],
   "com.karameesh.Kids": [
     {
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "admob_rewarded": "ca-app-pub-3940256099942544/5224354917"
+      "admob_banner": "ca-app-pub-2820243726232967/5632544635",
+      "admob_interstitial": "ca-app-pub-2820243726232967/4375303282",
+      "admob_rewarded": "ca-app-pub-2820243726232967/1693299623"
     }
   ],
   "com.toyorbaby.Elsissan": [
@@ -36,9 +36,9 @@
   ],
   "com.Songs.ToyorElJaanah": [
     {
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "admob_rewarded": "ca-app-pub-3940256099942544/5224354917"
+      "admob_banner": "ca-app-pub-2820243726232967/8230787815",
+      "admob_interstitial": "ca-app-pub-2820243726232967/8058046352",
+      "admob_rewarded": "ca-app-pub-2820243726232967/2978461135"
     }
   ]
 }
